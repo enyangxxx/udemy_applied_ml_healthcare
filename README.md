@@ -5,3 +5,7 @@ I will make this repository public. Although the resources have been downloaded 
 
 The topics which have been dealt are:
 - Breast Cancer Detection with SVM and KNN
+- Heart Disease Prediction with Standard Neural Networks
+- DNA Classification with multiple algorithms
+- Autism Screening with Standard Neural Networks
+- Diabetes Onset Detection with Standard Neural Networks
